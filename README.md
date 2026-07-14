@@ -1,6 +1,6 @@
 ---
 website: "Plataforma Institucional do Município da Lourinhã"          # Entre as aspas escreve o nome do website
-date: "15/97/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "15/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://cm-lourinha.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://cm-lourinha.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM da Lourinhã"         # Entre as aspas escrever o nome do owner do website
